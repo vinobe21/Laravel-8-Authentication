@@ -19,7 +19,7 @@ Authentication page using Laravel 8 and bootstrap 4
 - Run __composer install__ or __composer update__
 - Run __php artisan key:generate__
 - Run __php artisan migrate__
-- Run __php artisan db:seed__
+- Run __php artisan db:seed UserSeeder__
 
 ## Admin Login
 <table>
